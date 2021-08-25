@@ -1,1 +1,1 @@
-# A simple Djanog/ React Chat App
+# A simple Django/ React Chat App
